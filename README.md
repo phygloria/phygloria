@@ -1,16 +1,21 @@
-### Hi there 👋
+# 박하영
+#### 1991.03.27. 여성
+---
+  
+안녕하세요. 박하영입니다. 
+그래픽디자인과 영상편집을 주로 작업했습니다.
 
-<!--
-**phygloria/phygloria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+#### 개발 공부를 시작한 이유
+커뮤니티 어플제작 UI,UX 디자인에 부분참여 했었다가 디자인이 생각처럼 잘 이뤄지기 어려움을 알게되었고
+협업과정에 개발이 가능한점, 어려운점을 이해하며 수월하게 도움드릴 수 있는 디자인을 제공하고 싶다는 생각이 들었다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+4차산업혁명 시대 AI의 무서운 성장속도에 긴장감이 들기도하고, 시대흐름에 따라 역량을 더 키워야겠다는 생각이 들어서 개발공부를 시작하게 되었다.
+개발도 할 줄 아는 디자이너, AI 다룰 줄 아는 디자이너가 되는 것이 목표이다.
+
+#### 직무경력
++ 한국어린이**** - 일러스트레이터
++ 하트** - 영상디자이너
++ 그린*** - 영업부 디자이너
+
